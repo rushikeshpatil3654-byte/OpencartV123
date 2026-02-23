@@ -1,0 +1,13 @@
+2026-02-17 14:30:03 INFO  TC001_AccountRegistrationTest:17 - ******* Starting TC001_AccountRegistrationTest *******
+2026-02-17 14:30:03 INFO  TC001_AccountRegistrationTest:23 - Clicked on Myaccount link
+2026-02-17 14:30:05 INFO  TC001_AccountRegistrationTest:25 - Clicked on Registration link
+2026-02-17 14:30:05 INFO  TC001_AccountRegistrationTest:30 - Providing Customer details...
+2026-02-17 14:30:16 INFO  TC001_AccountRegistrationTest:45 - Validating expected msg...
+2026-02-17 14:30:16 ERROR TC001_AccountRegistrationTest:54 - Test Failed..
+2026-02-17 14:30:16 DEBUG TC001_AccountRegistrationTest:55 - Debug logs..
+2026-02-17 14:30:54 INFO  TC001_AccountRegistrationTest:17 - ******* Starting TC001_AccountRegistrationTest *******
+2026-02-17 14:30:55 INFO  TC001_AccountRegistrationTest:23 - Clicked on Myaccount link
+2026-02-17 14:30:55 INFO  TC001_AccountRegistrationTest:25 - Clicked on Registration link
+2026-02-17 14:30:55 INFO  TC001_AccountRegistrationTest:30 - Providing Customer details...
+2026-02-17 14:30:56 INFO  TC001_AccountRegistrationTest:45 - Validating expected msg...
+2026-02-17 14:30:56 INFO  TC001_AccountRegistrationTest:68 - ******* Finished TC001_AccountRegistrationTest *******
